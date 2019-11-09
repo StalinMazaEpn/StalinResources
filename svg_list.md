@@ -181,8 +181,20 @@
  **Archivo: 404_word_icon.svg** 
  ![image_404_word_icon.svg](svg/404_word_icon.svg) 
 
+ **Archivo: alarm.svg** 
+ ![image_alarm.svg](svg/alarm.svg) 
+
+ **Archivo: analytics_report.svg** 
+ ![image_analytics_report.svg](svg/analytics_report.svg) 
+
  **Archivo: bot.svg** 
  ![image_bot.svg](svg/bot.svg) 
+
+ **Archivo: calendar.svg** 
+ ![image_calendar.svg](svg/calendar.svg) 
+
+ **Archivo: car.svg** 
+ ![image_car.svg](svg/car.svg) 
 
  **Archivo: chat.svg** 
  ![image_chat.svg](svg/chat.svg) 
@@ -220,6 +232,9 @@
  **Archivo: paper-plane.svg** 
  ![image_paper-plane.svg](svg/paper-plane.svg) 
 
+ **Archivo: protest.svg** 
+ ![image_protest.svg](svg/protest.svg) 
+
  **Archivo: robot.svg** 
  ![image_robot.svg](svg/robot.svg) 
 
@@ -241,11 +256,20 @@
  **Archivo: sanIsidroIconTransparent.svg** 
  ![image_sanIsidroIconTransparent.svg](svg/sanIsidroIconTransparent.svg) 
 
+ **Archivo: shield.svg** 
+ ![image_shield.svg](svg/shield.svg) 
+
  **Archivo: siu_light.svg** 
  ![image_siu_light.svg](svg/siu_light.svg) 
 
  **Archivo: smartphone.svg** 
  ![image_smartphone.svg](svg/smartphone.svg) 
+
+ **Archivo: sprout.svg** 
+ ![image_sprout.svg](svg/sprout.svg) 
+
+ **Archivo: veterinary.svg** 
+ ![image_veterinary.svg](svg/veterinary.svg) 
 
  **Archivo: webcam.svg** 
  ![image_webcam.svg](svg/webcam.svg) 

@@ -117,7 +117,7 @@ const writeInFile = (text, path) => {
 const main = async () => {
     try {
         // renameFilesDir();
-        writeFilesMD();
+        // writeFilesMD();
     } catch (err) {
         console.error('Error', err);
     }
