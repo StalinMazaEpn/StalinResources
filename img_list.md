@@ -178,3 +178,6 @@
  **Archivo: 030-vr-glasses.png** 
  ![image_030-vr-glasses.png](img/030-vr-glasses.png) 
 
+ **Archivo: angular-white-transparent.png** 
+ ![image_angular-white-transparent.png](img/angular-white-transparent.png) 
+

@@ -187,6 +187,12 @@
  **Archivo: analytics_report.svg** 
  ![image_analytics_report.svg](svg/analytics_report.svg) 
 
+ **Archivo: angular-white-transparent.svg** 
+ ![image_angular-white-transparent.svg](svg/angular-white-transparent.svg) 
+
+ **Archivo: baker.svg** 
+ ![image_baker.svg](svg/baker.svg) 
+
  **Archivo: bot.svg** 
  ![image_bot.svg](svg/bot.svg) 
 
@@ -195,6 +201,12 @@
 
  **Archivo: car.svg** 
  ![image_car.svg](svg/car.svg) 
+
+ **Archivo: carpenter.svg** 
+ ![image_carpenter.svg](svg/carpenter.svg) 
+
+ **Archivo: cashier-machine.svg** 
+ ![image_cashier-machine.svg](svg/cashier-machine.svg) 
 
  **Archivo: chat.svg** 
  ![image_chat.svg](svg/chat.svg) 
@@ -205,11 +217,20 @@
  **Archivo: headset.svg** 
  ![image_headset.svg](svg/headset.svg) 
 
+ **Archivo: hospital.svg** 
+ ![image_hospital.svg](svg/hospital.svg) 
+
+ **Archivo: hotel.svg** 
+ ![image_hotel.svg](svg/hotel.svg) 
+
  **Archivo: imac.svg** 
  ![image_imac.svg](svg/imac.svg) 
 
  **Archivo: internet.svg** 
  ![image_internet.svg](svg/internet.svg) 
+
+ **Archivo: ironmongery.svg** 
+ ![image_ironmongery.svg](svg/ironmongery.svg) 
 
  **Archivo: letter.svg** 
  ![image_letter.svg](svg/letter.svg) 
@@ -225,6 +246,9 @@
 
  **Archivo: lupa_not_found.svg** 
  ![image_lupa_not_found.svg](svg/lupa_not_found.svg) 
+
+ **Archivo: medicine.svg** 
+ ![image_medicine.svg](svg/medicine.svg) 
 
  **Archivo: megaphone.svg** 
  ![image_megaphone.svg](svg/megaphone.svg) 
@@ -267,6 +291,9 @@
 
  **Archivo: sprout.svg** 
  ![image_sprout.svg](svg/sprout.svg) 
+
+ **Archivo: store.svg** 
+ ![image_store.svg](svg/store.svg) 
 
  **Archivo: veterinary.svg** 
  ![image_veterinary.svg](svg/veterinary.svg) 
